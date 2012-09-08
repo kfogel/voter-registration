@@ -1,0 +1,48 @@
+# Sample localization file for English. Add more files in this directory for other locales.
+# See https://github.com/svenfuchs/rails-i18n/tree/master/rails%2Flocale for starting points.
+
+es:
+  about: "acera de nosotros"
+  go: "enviar"
+  home: "Inicio"
+  how_it_works: "como funciona"
+  register_to_vote: "registrarse para votar"
+  register_to_vote_in_state: "Registrarse para votar en su Estado"
+  select_a_state: "Seleccionar un Estado"
+  state_guidelines: "Reglas para cada estado"
+  terms_of_use: "Términos y condiciones"
+  vote: "votar"
+  voter_registration: "Registración de votante"
+
+  activemodel:
+    attributes:
+      register:
+        title:  "título"
+        first_name: "Nombre"
+        middle_name: "Segundo nombre"
+        last_name: "Apellidos"
+        suffix: "Sufijo (jr., sr., III, M.D.)"
+        home_address: "Domicilio"
+        home_apt: "Puerta/Habitación"
+        home_city: "Municipo"
+        home_state: "Estado"
+        home_zip_code: "Código postal"
+        mailing_address: "Dirección para correos"
+        mailing_city: "Municipo"
+        mailing_state: "Estado"
+        mailing_zip_code: "Código postal"
+        previous_address: "Domicilio"
+        previous_apt: "Puerta/Habitación"
+        previous_city: "Municipo"
+        previous_zip_code: "Código postal"
+        previous_state: "Estado"
+        previous_title: "Título"
+        previous_first_name: "Nombre"
+        previous_last_name: "Apellidos"
+        previous_middle_name: "Segundo nombre"
+        previous_suffix: "Sufijo (jr., sr., III, M.D.)"
+        id_number: "Número de identificación"
+        date_of_birth: "Fecha de nacimiento"
+        phone: "Número de teléfono"
+        political_party: "Partido político"
+        ethnicity: "Identificación étnica"
