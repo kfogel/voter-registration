@@ -66,7 +66,7 @@ implementations:
 * Ruby 1.9.3
 
 ## Contributing
-Check out [contributing](contributing.mkd) for ways that you can contribute
+Check out [contributing](https://github.com/democrats/voter-registration/blob/master/CONTRIBUTING.mkd) for ways that you can contribute
 
 ## Documentation
 
