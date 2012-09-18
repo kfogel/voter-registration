@@ -3,4 +3,5 @@
 * Localize the languages and add support for voter forms listed here [http://www.eac.gov/voter_resources/register_to_vote.aspx](http://www.eac.gov/voter_resources/register_to_vote.aspx)
 * Create a dropdown for selecting the language (English, spanish, etc)
 * Add the ability at the end of the registration flow for a user to email the completed form
+* Update the PDF generation to use prawn fill form [https://github.com/democrats/voter-registration/blob/master/app/pdfs/registration_pdf.rb#L75](https://github.com/democrats/voter-registration/blob/master/app/pdfs/registration_pdf.rb#L75)
 
