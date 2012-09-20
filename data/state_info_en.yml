@@ -347,6 +347,20 @@
     - slug: url
       body: http://www.sos.ca.gov/elections/elections.htm
       title: URL
+    - slug: online
+      body: true
+    - slug: online_requirements
+      body: "<ul>
+            <li>Have a California Driver's License or ID card issued by the state of California</li>
+            <li>The last four digits of your social security number and date of birth</li>
+            <li>If you do not have a California driver license or California identification card, you can still register to vote.</li>
+            <li>Be 18 or older at the time of the next election</li>
+            <li>Be a United States citizen</li>
+            <li>A resident of California</li>
+            <li>Not in prison or on parole for the conviction of a felony.</li>
+            </ul>"
+    - slug: online_url
+      body: "https://rtv.sos.ca.gov/elections/register-to-vote/"
   - slug: CO
     body:
     title: Colorado
