@@ -7,6 +7,8 @@ The above copyright notice and this permission notice shall be included in all c
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-This permission does not include: (a) any use of the Software other than for its intended purpose; or (b) any use of the Software in any manner that violates applicable law.  Any use of the Software other than as specifically authorized herein is strictly prohibited and will terminate the license granted herein.
+-------------------------------------------------------------------------------
+Non-License Notice:
 
-All information, dates and content included in the Software are subject to change given the subject matter of the Software.  It is the responsibility of the user of the Software hereunder to monitor changes in applicable law.  Future versions of the Software may include updated content to reflect any changes in applicable law.
+Please see the file ADVISORY.md for information about laws and expectations that may affect usage of this software independently of the above copyright license.
+-------------------------------------------------------------------------------

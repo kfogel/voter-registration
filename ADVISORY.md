@@ -1,0 +1,5 @@
+#Advisory notice on using Voter Registration legally and in the public interest
+
+Most jurisdictions have laws penalizing voting fraud and attempts to register ineligible people as voters.  As the Voter Registration code is open source software, the authors remind anyone deploying or distributing it (including distributing modified versions) that use of open source software to violate the law is still a violation of the law.  None of the original authors or other contributors to the code are responsible if a third party misuses the code, and the authors will cooperate with authorities to deter, detect, and prosecute such misuses as appropriate.
+
+Consistent with the license's stated lack of warranty, all information, dates and content included in this software are subject to change given the subject matter of the software.  It is the responsibility of the user of the software to monitor changes in applicable law.  Future versions of the software may include updated content to reflect any changes in applicable law.
